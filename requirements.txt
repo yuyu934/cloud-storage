@@ -1,0 +1,4 @@
+requests>=2.31
+PyYAML>=6.0
+boto3>=1.34        # 仅迅雷云盘上传需要
+websocket-client>=1.7   # 夸克口令（通过客户端调试端口）

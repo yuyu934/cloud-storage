@@ -1,0 +1,17 @@
+# 凭证与登录态（绝对不能提交）
+config.yaml
+.panbot_state/
+
+# 个人运行数据
+links.md
+links_log.csv
+*.log
+
+# 逆向研究产物
+sign_samples.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
